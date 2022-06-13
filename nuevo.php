@@ -9,5 +9,6 @@
 <div>
 	hola div nuevo php
 </div>
+<p>hola p</p>
 </body>
 </html>
